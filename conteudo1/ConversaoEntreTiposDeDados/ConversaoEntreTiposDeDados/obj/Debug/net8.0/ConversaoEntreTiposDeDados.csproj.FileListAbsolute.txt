@@ -1,0 +1,14 @@
+D:\aprendizado-sobre-dotnet\conteudo1\ConversaoEntreTiposDeDados\ConversaoEntreTiposDeDados\bin\Debug\net8.0\ConversaoEntreTiposDeDados.exe
+D:\aprendizado-sobre-dotnet\conteudo1\ConversaoEntreTiposDeDados\ConversaoEntreTiposDeDados\bin\Debug\net8.0\ConversaoEntreTiposDeDados.deps.json
+D:\aprendizado-sobre-dotnet\conteudo1\ConversaoEntreTiposDeDados\ConversaoEntreTiposDeDados\bin\Debug\net8.0\ConversaoEntreTiposDeDados.runtimeconfig.json
+D:\aprendizado-sobre-dotnet\conteudo1\ConversaoEntreTiposDeDados\ConversaoEntreTiposDeDados\bin\Debug\net8.0\ConversaoEntreTiposDeDados.dll
+D:\aprendizado-sobre-dotnet\conteudo1\ConversaoEntreTiposDeDados\ConversaoEntreTiposDeDados\bin\Debug\net8.0\ConversaoEntreTiposDeDados.pdb
+D:\aprendizado-sobre-dotnet\conteudo1\ConversaoEntreTiposDeDados\ConversaoEntreTiposDeDados\obj\Debug\net8.0\ConversaoEntreTiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\aprendizado-sobre-dotnet\conteudo1\ConversaoEntreTiposDeDados\ConversaoEntreTiposDeDados\obj\Debug\net8.0\ConversaoEntreTiposDeDados.AssemblyInfoInputs.cache
+D:\aprendizado-sobre-dotnet\conteudo1\ConversaoEntreTiposDeDados\ConversaoEntreTiposDeDados\obj\Debug\net8.0\ConversaoEntreTiposDeDados.AssemblyInfo.cs
+D:\aprendizado-sobre-dotnet\conteudo1\ConversaoEntreTiposDeDados\ConversaoEntreTiposDeDados\obj\Debug\net8.0\ConversaoEntreTiposDeDados.csproj.CoreCompileInputs.cache
+D:\aprendizado-sobre-dotnet\conteudo1\ConversaoEntreTiposDeDados\ConversaoEntreTiposDeDados\obj\Debug\net8.0\ConversaoEntreTiposDeDados.dll
+D:\aprendizado-sobre-dotnet\conteudo1\ConversaoEntreTiposDeDados\ConversaoEntreTiposDeDados\obj\Debug\net8.0\refint\ConversaoEntreTiposDeDados.dll
+D:\aprendizado-sobre-dotnet\conteudo1\ConversaoEntreTiposDeDados\ConversaoEntreTiposDeDados\obj\Debug\net8.0\ConversaoEntreTiposDeDados.pdb
+D:\aprendizado-sobre-dotnet\conteudo1\ConversaoEntreTiposDeDados\ConversaoEntreTiposDeDados\obj\Debug\net8.0\ConversaoEntreTiposDeDados.genruntimeconfig.cache
+D:\aprendizado-sobre-dotnet\conteudo1\ConversaoEntreTiposDeDados\ConversaoEntreTiposDeDados\obj\Debug\net8.0\ref\ConversaoEntreTiposDeDados.dll
