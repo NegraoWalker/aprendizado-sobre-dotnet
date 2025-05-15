@@ -1,0 +1,15 @@
+D:\aprendizado-sobre-dotnet\conteudo1\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\net8.0\EstruturasDeCondicao.exe
+D:\aprendizado-sobre-dotnet\conteudo1\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\net8.0\EstruturasDeCondicao.deps.json
+D:\aprendizado-sobre-dotnet\conteudo1\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\net8.0\EstruturasDeCondicao.runtimeconfig.json
+D:\aprendizado-sobre-dotnet\conteudo1\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\net8.0\EstruturasDeCondicao.dll
+D:\aprendizado-sobre-dotnet\conteudo1\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\net8.0\EstruturasDeCondicao.pdb
+D:\aprendizado-sobre-dotnet\conteudo1\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\net8.0\EstruturasDeCondicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\aprendizado-sobre-dotnet\conteudo1\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\net8.0\EstruturasDeCondicao.AssemblyInfoInputs.cache
+D:\aprendizado-sobre-dotnet\conteudo1\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\net8.0\EstruturasDeCondicao.AssemblyInfo.cs
+D:\aprendizado-sobre-dotnet\conteudo1\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\net8.0\EstruturasDeCondicao.csproj.CoreCompileInputs.cache
+D:\aprendizado-sobre-dotnet\conteudo1\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\net8.0\EstruturasDeCondicao.sourcelink.json
+D:\aprendizado-sobre-dotnet\conteudo1\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\net8.0\EstruturasDeCondicao.dll
+D:\aprendizado-sobre-dotnet\conteudo1\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\net8.0\refint\EstruturasDeCondicao.dll
+D:\aprendizado-sobre-dotnet\conteudo1\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\net8.0\EstruturasDeCondicao.pdb
+D:\aprendizado-sobre-dotnet\conteudo1\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\net8.0\EstruturasDeCondicao.genruntimeconfig.cache
+D:\aprendizado-sobre-dotnet\conteudo1\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\net8.0\ref\EstruturasDeCondicao.dll
