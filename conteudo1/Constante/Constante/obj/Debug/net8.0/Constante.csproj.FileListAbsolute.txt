@@ -1,0 +1,15 @@
+D:\aprendizado-sobre-dotnet\conteudo1\Constante\Constante\bin\Debug\net8.0\Constante.exe
+D:\aprendizado-sobre-dotnet\conteudo1\Constante\Constante\bin\Debug\net8.0\Constante.deps.json
+D:\aprendizado-sobre-dotnet\conteudo1\Constante\Constante\bin\Debug\net8.0\Constante.runtimeconfig.json
+D:\aprendizado-sobre-dotnet\conteudo1\Constante\Constante\bin\Debug\net8.0\Constante.dll
+D:\aprendizado-sobre-dotnet\conteudo1\Constante\Constante\bin\Debug\net8.0\Constante.pdb
+D:\aprendizado-sobre-dotnet\conteudo1\Constante\Constante\obj\Debug\net8.0\Constante.GeneratedMSBuildEditorConfig.editorconfig
+D:\aprendizado-sobre-dotnet\conteudo1\Constante\Constante\obj\Debug\net8.0\Constante.AssemblyInfoInputs.cache
+D:\aprendizado-sobre-dotnet\conteudo1\Constante\Constante\obj\Debug\net8.0\Constante.AssemblyInfo.cs
+D:\aprendizado-sobre-dotnet\conteudo1\Constante\Constante\obj\Debug\net8.0\Constante.csproj.CoreCompileInputs.cache
+D:\aprendizado-sobre-dotnet\conteudo1\Constante\Constante\obj\Debug\net8.0\Constante.sourcelink.json
+D:\aprendizado-sobre-dotnet\conteudo1\Constante\Constante\obj\Debug\net8.0\Constante.dll
+D:\aprendizado-sobre-dotnet\conteudo1\Constante\Constante\obj\Debug\net8.0\refint\Constante.dll
+D:\aprendizado-sobre-dotnet\conteudo1\Constante\Constante\obj\Debug\net8.0\Constante.pdb
+D:\aprendizado-sobre-dotnet\conteudo1\Constante\Constante\obj\Debug\net8.0\Constante.genruntimeconfig.cache
+D:\aprendizado-sobre-dotnet\conteudo1\Constante\Constante\obj\Debug\net8.0\ref\Constante.dll

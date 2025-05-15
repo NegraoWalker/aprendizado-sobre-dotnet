@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConversaoEntreTiposDeDados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29f4b01be64059760b9ec55c3aa553fc44166afd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConversaoEntreTiposDeDados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConversaoEntreTiposDeDados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

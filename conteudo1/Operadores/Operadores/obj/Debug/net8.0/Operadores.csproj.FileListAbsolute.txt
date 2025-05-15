@@ -1,0 +1,15 @@
+D:\aprendizado-sobre-dotnet\conteudo1\Operadores\Operadores\bin\Debug\net8.0\Operadores.exe
+D:\aprendizado-sobre-dotnet\conteudo1\Operadores\Operadores\bin\Debug\net8.0\Operadores.deps.json
+D:\aprendizado-sobre-dotnet\conteudo1\Operadores\Operadores\bin\Debug\net8.0\Operadores.runtimeconfig.json
+D:\aprendizado-sobre-dotnet\conteudo1\Operadores\Operadores\bin\Debug\net8.0\Operadores.dll
+D:\aprendizado-sobre-dotnet\conteudo1\Operadores\Operadores\bin\Debug\net8.0\Operadores.pdb
+D:\aprendizado-sobre-dotnet\conteudo1\Operadores\Operadores\obj\Debug\net8.0\Operadores.GeneratedMSBuildEditorConfig.editorconfig
+D:\aprendizado-sobre-dotnet\conteudo1\Operadores\Operadores\obj\Debug\net8.0\Operadores.AssemblyInfoInputs.cache
+D:\aprendizado-sobre-dotnet\conteudo1\Operadores\Operadores\obj\Debug\net8.0\Operadores.AssemblyInfo.cs
+D:\aprendizado-sobre-dotnet\conteudo1\Operadores\Operadores\obj\Debug\net8.0\Operadores.csproj.CoreCompileInputs.cache
+D:\aprendizado-sobre-dotnet\conteudo1\Operadores\Operadores\obj\Debug\net8.0\Operadores.sourcelink.json
+D:\aprendizado-sobre-dotnet\conteudo1\Operadores\Operadores\obj\Debug\net8.0\Operadores.dll
+D:\aprendizado-sobre-dotnet\conteudo1\Operadores\Operadores\obj\Debug\net8.0\refint\Operadores.dll
+D:\aprendizado-sobre-dotnet\conteudo1\Operadores\Operadores\obj\Debug\net8.0\Operadores.pdb
+D:\aprendizado-sobre-dotnet\conteudo1\Operadores\Operadores\obj\Debug\net8.0\Operadores.genruntimeconfig.cache
+D:\aprendizado-sobre-dotnet\conteudo1\Operadores\Operadores\obj\Debug\net8.0\ref\Operadores.dll
