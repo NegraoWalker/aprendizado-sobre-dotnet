@@ -1,0 +1,15 @@
+D:\aprendizado-sobre-dotnet\conteudo1\ComoCriarMetodos\ComoCriarMetodos\bin\Debug\net8.0\ComoCriarMetodos.exe
+D:\aprendizado-sobre-dotnet\conteudo1\ComoCriarMetodos\ComoCriarMetodos\bin\Debug\net8.0\ComoCriarMetodos.deps.json
+D:\aprendizado-sobre-dotnet\conteudo1\ComoCriarMetodos\ComoCriarMetodos\bin\Debug\net8.0\ComoCriarMetodos.runtimeconfig.json
+D:\aprendizado-sobre-dotnet\conteudo1\ComoCriarMetodos\ComoCriarMetodos\bin\Debug\net8.0\ComoCriarMetodos.dll
+D:\aprendizado-sobre-dotnet\conteudo1\ComoCriarMetodos\ComoCriarMetodos\bin\Debug\net8.0\ComoCriarMetodos.pdb
+D:\aprendizado-sobre-dotnet\conteudo1\ComoCriarMetodos\ComoCriarMetodos\obj\Debug\net8.0\ComoCriarMetodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\aprendizado-sobre-dotnet\conteudo1\ComoCriarMetodos\ComoCriarMetodos\obj\Debug\net8.0\ComoCriarMetodos.AssemblyInfoInputs.cache
+D:\aprendizado-sobre-dotnet\conteudo1\ComoCriarMetodos\ComoCriarMetodos\obj\Debug\net8.0\ComoCriarMetodos.AssemblyInfo.cs
+D:\aprendizado-sobre-dotnet\conteudo1\ComoCriarMetodos\ComoCriarMetodos\obj\Debug\net8.0\ComoCriarMetodos.csproj.CoreCompileInputs.cache
+D:\aprendizado-sobre-dotnet\conteudo1\ComoCriarMetodos\ComoCriarMetodos\obj\Debug\net8.0\ComoCriarMetodos.sourcelink.json
+D:\aprendizado-sobre-dotnet\conteudo1\ComoCriarMetodos\ComoCriarMetodos\obj\Debug\net8.0\ComoCriarMetodos.dll
+D:\aprendizado-sobre-dotnet\conteudo1\ComoCriarMetodos\ComoCriarMetodos\obj\Debug\net8.0\refint\ComoCriarMetodos.dll
+D:\aprendizado-sobre-dotnet\conteudo1\ComoCriarMetodos\ComoCriarMetodos\obj\Debug\net8.0\ComoCriarMetodos.pdb
+D:\aprendizado-sobre-dotnet\conteudo1\ComoCriarMetodos\ComoCriarMetodos\obj\Debug\net8.0\ComoCriarMetodos.genruntimeconfig.cache
+D:\aprendizado-sobre-dotnet\conteudo1\ComoCriarMetodos\ComoCriarMetodos\obj\Debug\net8.0\ref\ComoCriarMetodos.dll
