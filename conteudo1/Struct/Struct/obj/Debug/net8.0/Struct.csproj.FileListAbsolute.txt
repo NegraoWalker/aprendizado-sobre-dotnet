@@ -1,0 +1,15 @@
+D:\aprendizado-sobre-dotnet\conteudo1\Struct\Struct\bin\Debug\net8.0\Struct.exe
+D:\aprendizado-sobre-dotnet\conteudo1\Struct\Struct\bin\Debug\net8.0\Struct.deps.json
+D:\aprendizado-sobre-dotnet\conteudo1\Struct\Struct\bin\Debug\net8.0\Struct.runtimeconfig.json
+D:\aprendizado-sobre-dotnet\conteudo1\Struct\Struct\bin\Debug\net8.0\Struct.dll
+D:\aprendizado-sobre-dotnet\conteudo1\Struct\Struct\bin\Debug\net8.0\Struct.pdb
+D:\aprendizado-sobre-dotnet\conteudo1\Struct\Struct\obj\Debug\net8.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\aprendizado-sobre-dotnet\conteudo1\Struct\Struct\obj\Debug\net8.0\Struct.AssemblyInfoInputs.cache
+D:\aprendizado-sobre-dotnet\conteudo1\Struct\Struct\obj\Debug\net8.0\Struct.AssemblyInfo.cs
+D:\aprendizado-sobre-dotnet\conteudo1\Struct\Struct\obj\Debug\net8.0\Struct.csproj.CoreCompileInputs.cache
+D:\aprendizado-sobre-dotnet\conteudo1\Struct\Struct\obj\Debug\net8.0\Struct.sourcelink.json
+D:\aprendizado-sobre-dotnet\conteudo1\Struct\Struct\obj\Debug\net8.0\Struct.dll
+D:\aprendizado-sobre-dotnet\conteudo1\Struct\Struct\obj\Debug\net8.0\refint\Struct.dll
+D:\aprendizado-sobre-dotnet\conteudo1\Struct\Struct\obj\Debug\net8.0\Struct.pdb
+D:\aprendizado-sobre-dotnet\conteudo1\Struct\Struct\obj\Debug\net8.0\Struct.genruntimeconfig.cache
+D:\aprendizado-sobre-dotnet\conteudo1\Struct\Struct\obj\Debug\net8.0\ref\Struct.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\aprendizado-sobre-dotnet\\conteudo1\\EstruturasDeRepeticao\\EstruturasDeRepeticao\\EstruturasDeRepeticao.csproj",
-      "projectName": "EstruturasDeRepeticao",
-      "projectPath": "D:\\aprendizado-sobre-dotnet\\conteudo1\\EstruturasDeRepeticao\\EstruturasDeRepeticao\\EstruturasDeRepeticao.csproj",
+      "projectUniqueName": "D:\\aprendizado-sobre-dotnet\\conteudo1\\Struct\\Struct\\Struct.csproj",
+      "projectName": "Struct",
+      "projectPath": "D:\\aprendizado-sobre-dotnet\\conteudo1\\Struct\\Struct\\Struct.csproj",
       "packagesPath": "C:\\Users\\Walker\\.nuget\\packages\\",
-      "outputPath": "D:\\aprendizado-sobre-dotnet\\conteudo1\\EstruturasDeRepeticao\\EstruturasDeRepeticao\\obj\\",
+      "outputPath": "D:\\aprendizado-sobre-dotnet\\conteudo1\\Struct\\Struct\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
